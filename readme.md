@@ -3,4 +3,4 @@
 ## 1.[种树问题](./plant_/readme.md)
 ## 2.[实现 lisp 递归](./likeLisp_/readme.md)
 ## 3.[设置带认证的 chrome 代理](./chrome_proxy_with_auth_/readme.md)
-## 4.[vsode 配置](./vscode_/readme.md)
+## 4.[vscode 配置](./vscode_/readme.md)
